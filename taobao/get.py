@@ -19,7 +19,7 @@ def printGoodsList(ilt):
         print(ilt[i])
 
 def main():
-    goods = '微单'
+    goods = '耳机'
     depth = 2
     star_url = 'https://s.taobao.com/search?q='+goods
     infoList = []
