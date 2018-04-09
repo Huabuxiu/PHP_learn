@@ -1,0 +1,18 @@
+2018-04-08T16:53:44.657157776 4.190733s notice: Recursively removing directory /mnt/hgfs/code/PythonCode/TO_DO_LIST/rethinkdb_data/tmp
+2018-04-08T16:53:44.761274836 4.294837s notice: Initializing directory /mnt/hgfs/code/PythonCode/TO_DO_LIST/rethinkdb_data
+2018-04-08T16:53:44.764434653 4.297998s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/mnt/hgfs/code/PythonCode/TO_DO_LIST/rethinkdb_data' did not already exist or is empty.)
+2018-04-08T16:53:44.779404565 4.312968s notice: Running rethinkdb 2.3.6~0xenial (GCC 5.3.1)...
+2018-04-08T16:53:44.783257159 4.316823s notice: Running on Linux 4.10.0-40-generic i686
+2018-04-08T16:53:44.783664424 4.317227s notice: Loading data from directory /mnt/hgfs/code/PythonCode/TO_DO_LIST/rethinkdb_data
+2018-04-08T16:53:44.795796665 4.329361s error: Inaccessible database file: "/mnt/hgfs/code/PythonCode/TO_DO_LIST/rethinkdb_data/tmp/metadata.create": Operation not permitted\nSome possible reasons:\n- the database file couldn't be created or opened for reading and writing\n- the user which was used to start the database is not an owner of the file
+2018-04-08T16:53:54.567409846 0.112612s notice: Recursively removing directory /mnt/hgfs/code/PythonCode/TO_DO_LIST/rethinkdb_data/tmp
+2018-04-08T16:53:54.570888854 0.116080s notice: In recursion: removing file '/mnt/hgfs/code/PythonCode/TO_DO_LIST/rethinkdb_data/tmp/metadata.create'
+2018-04-08T16:53:54.574268323 0.119460s notice: In recursion: removing file '/mnt/hgfs/code/PythonCode/TO_DO_LIST/rethinkdb_data/tmp'
+2018-04-08T16:53:54.581408812 0.126599s notice: Running rethinkdb 2.3.6~0xenial (GCC 5.3.1)...
+2018-04-08T16:53:54.591158709 0.136352s notice: Running on Linux 4.10.0-40-generic i686
+2018-04-08T16:53:54.591578283 0.136768s notice: Loading data from directory /mnt/hgfs/code/PythonCode/TO_DO_LIST/rethinkdb_data
+2018-04-08T16:53:54.602070858 0.147262s error: Inaccessible database file: "/mnt/hgfs/code/PythonCode/TO_DO_LIST/rethinkdb_data/metadata": No such file or directory\nSome possible reasons:\n- the database file couldn't be created or opened for reading and writing\n- the user which was used to start the database is not an owner of the file
+2018-04-08T16:55:19.951495575 0.269006s notice: Running rethinkdb 2.3.6~0xenial (GCC 5.3.1)...
+2018-04-08T16:55:19.955772460 0.273282s notice: Running on Linux 4.10.0-40-generic i686
+2018-04-08T16:55:19.956289575 0.273797s notice: Loading data from directory /mnt/hgfs/code/PythonCode/TO_DO_LIST/rethinkdb_data
+2018-04-08T16:55:19.958849236 0.276357s error: Inaccessible database file: "/mnt/hgfs/code/PythonCode/TO_DO_LIST/rethinkdb_data/metadata": No such file or directory\nSome possible reasons:\n- the database file couldn't be created or opened for reading and writing\n- the user which was used to start the database is not an owner of the file
